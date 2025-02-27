@@ -1,0 +1,5 @@
+../Drivers/Src/GPIO_STM32F401xx.c:11:6:GPIO_EnableClock	16	static
+../Drivers/Src/GPIO_STM32F401xx.c:29:6:GPIO_InitPin	24	static
+../Drivers/Src/GPIO_STM32F401xx.c:51:5:GPIO_ReadPin	16	static
+../Drivers/Src/GPIO_STM32F401xx.c:56:6:GPIO_WritePin	24	static
+../Drivers/Src/GPIO_STM32F401xx.c:63:6:GPIO_TogglePin	16	static
